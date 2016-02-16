@@ -26,7 +26,7 @@ export default () => {
 
   var links5 = [];
   links5.push({url: '/login', name: 'Login'} );
-  links5.push({url: '/password', name: 'Forgot passoword'} );
+  links5.push({url: '/password', name: 'Forgot password'} );
   links5.push({url: '/register', name: 'Register'} );
   links5.push({url: '/Logout', name: 'Logout'} );
 
